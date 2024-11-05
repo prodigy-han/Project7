@@ -4,7 +4,7 @@ Submitted by: **Han Htoo Satt**
 
 This web app: **lets you imagine you're in a game and customize the characters or build your own team with characters that have attributes of your liking.**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/prodigy-han/Project7/blob/main/crewmates.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
